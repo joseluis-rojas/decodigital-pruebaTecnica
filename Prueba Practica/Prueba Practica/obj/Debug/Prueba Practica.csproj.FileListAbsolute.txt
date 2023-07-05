@@ -1,0 +1,18 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Prueba Practica\bin\Debug\Prueba Practica.exe.config
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Prueba Practica\bin\Debug\Prueba Practica.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Prueba Practica\bin\Debug\Prueba Practica.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Prueba Practica\obj\Debug\Prueba_Practica.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Prueba Practica\obj\Debug\Prueba_Practica.Properties.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Prueba Practica\obj\Debug\Prueba Practica.csproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Prueba Practica\obj\Debug\Prueba Practica.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Prueba Practica\obj\Debug\Prueba Practica.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Prueba Practica\obj\Debug\Prueba Practica.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Prueba Practica\Prueba Practica\bin\Debug\Prueba Practica.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Prueba Practica\Prueba Practica\obj\Debug\Prueba Practica.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Prueba Practica\Prueba Practica\obj\Debug\Prueba Practica.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Prueba Practica\Prueba Practica\bin\Debug\Prueba Practica.exe
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Prueba Practica\Prueba Practica\bin\Debug\Prueba Practica.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Prueba Practica\Prueba Practica\obj\Debug\Prueba Practica.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Prueba Practica\Prueba Practica\obj\Debug\Prueba_Practica.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Prueba Practica\Prueba Practica\obj\Debug\Prueba_Practica.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2012\Projects\Prueba Practica\Prueba Practica\obj\Debug\Prueba Practica.csproj.GenerateResource.Cache
